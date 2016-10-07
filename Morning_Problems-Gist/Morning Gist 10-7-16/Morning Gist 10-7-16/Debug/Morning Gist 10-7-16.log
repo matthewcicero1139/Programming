@@ -1,0 +1,4 @@
+﻿  Morning Gist 10-7-16.cpp
+c:\users\matthew.cicero\documents\visual studio 2015\projects\morning gist 10-7-16\morning gist 10-7-16\morning gist 10-7-16.cpp(3): warning C4010: single-line comment contains line-continuation character
+c:\users\matthew.cicero\documents\visual studio 2015\projects\morning gist 10-7-16\morning gist 10-7-16\morning gist 10-7-16.cpp(37): error C2562: 'swap': 'void' function returning a value
+  c:\users\matthew.cicero\documents\visual studio 2015\projects\morning gist 10-7-16\morning gist 10-7-16\morning gist 10-7-16.cpp(31): note: see declaration of 'swap'
